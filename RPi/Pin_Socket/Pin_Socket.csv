@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"PinSocket_2x20_P2.54mm_Vertical";1;"RPi_40pin";;;
+2;"J4";"Prox_5pin";1;"Proximity Sensor";;;
+3;"J3";"61300911121";1;"Membrane Button";;;
+4;"J5";"PWR_BTN";1;"PWR_BTN";;;
+5;"J2";"LED 3pin";1;"LED";;;

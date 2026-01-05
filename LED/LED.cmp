@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by PcbNew   date = 2025-06-17T16:18:37+0530
+
+BeginCmp
+TimeStamp = 731d9730-d42b-4c1c-84b3-948c67f916ea
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = Logo_Griva:Griva_logo;
+EndCmp
+
+BeginCmp
+TimeStamp = d30f54c4-b1f2-4c82-9b8c-805e2c9eb07a
+Path = /37d721a8-3a8a-4bec-949a-532a1c8277f2
+Reference = R2;
+ValeurCmp = 220E;
+IdModule  = Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = c5319870-ca80-4c65-89a7-84294fffe8f3
+Path = /1e4c8dc6-b1bf-4e44-a699-361c4b79b510
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = d9a637eb-312b-432a-8079-5bc68048dce5
+Path = /dd92b3be-f350-47d9-b781-c6ce5a94716d
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = Library:LED_Sunrom;
+EndCmp
+
+BeginCmp
+TimeStamp = 62a2a855-f703-4c3c-b3d9-d328c2d7ec63
+Path = /09682c5f-3568-4026-a4c7-71d7768e2425
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = Library:LED_Sunrom;
+EndCmp
+
+BeginCmp
+TimeStamp = e1c6a0bb-cf2d-4e4a-81cc-223229e2f3bd
+Path = /88d7aae5-5b34-4aca-b86c-669dacf5d07d
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = Library:LED_Sunrom;
+EndCmp
+
+BeginCmp
+TimeStamp = cdaffb90-b9d9-475a-acea-52ec8e64bd67
+Path = /05fa11c0-8626-4fa0-b194-8abff68e3e28
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = Library:LED_Sunrom;
+EndCmp
+
+BeginCmp
+TimeStamp = 982d0e53-6b87-4a9d-8786-27423912c9d9
+Path = /cc702173-a6ad-4d6c-ba46-b418e29b64cb
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = Library:LED_Sunrom;
+EndCmp
+
+BeginCmp
+TimeStamp = 6659b326-d617-40c4-96ca-63af1053c347
+Path = /77bc5c1c-04b9-4ea3-8674-591b0697ad7c
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = Library:LED_Sunrom;
+EndCmp
+
+BeginCmp
+TimeStamp = 304cc27e-5710-4b9b-a4f3-da64175fe27a
+Path = /3c3261d5-5af1-4ed6-838a-073b76295cb9
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = Library:LED_Sunrom;
+EndCmp
+
+BeginCmp
+TimeStamp = 09db1b14-d6ae-4719-8262-97b92982bee6
+Path = /6608110a-92c7-4da0-8565-ed84160beea7
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = Library:LED_Sunrom;
+EndCmp
+
+BeginCmp
+TimeStamp = 348fe808-43e2-4aa2-bc0b-dc4bed1089b1
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = Griva_logo;
+EndCmp
+
+BeginCmp
+TimeStamp = ff21bd28-77a6-48d1-8f4a-6000fb8045ae
+Path = /497716c7-d5b9-4f84-856c-2919ae69d033
+Reference = J1;
+ValeurCmp = BM03B-SRSS-TBT_LF__SN_;
+IdModule  = SMD_JST3:BM03BSRSSTBTLFSN;
+EndCmp
+
+BeginCmp
+TimeStamp = a5d194cc-78fc-432d-9fa0-473b43b9849f
+Path = /8492515d-f922-4afe-be15-a82a0100e1e5
+Reference = Q1;
+ValeurCmp = AO3400A;
+IdModule  = AO3400A:SOT95P280X125-3N;
+EndCmp
+
+EndListe
